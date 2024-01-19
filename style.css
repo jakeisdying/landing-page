@@ -1,0 +1,7 @@
+body, html {
+    display: flex;
+}
+
+.header {
+    background-color: #1F2937;
+} 
